@@ -44,15 +44,7 @@ I am a generative AI engineer, specializing in RAG pipelines with a background i
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/poetry/poetry-original-wordmark.svg" title="Poetry" alt="Poetry" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/ai/ai-original.svg" title="AI" alt="AI" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/rag/rag-original.svg" title="RAG" alt="RAG" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/langchain/langchain-original.svg" title="Langchain" alt="Langchain" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/lammaindex/lammaindex-original.svg" title="lammaindex" alt="lammaindex" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/faiss/faiss-original.svg" title="Faiss vector store" alt="Faiss vector store" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/opensource/opensource-original.svg" title="Open source development" alt="Open source development" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/pgvectorstore/pgvectorstore-original.svg" title="PGvector store" alt="PGvector store" width="40" height="40"/>&nbsp;
 </div>
 
 ---
