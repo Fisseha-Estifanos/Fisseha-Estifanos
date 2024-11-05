@@ -49,7 +49,7 @@ I am a generative AI engineer, specializing in RAG pipelines with a background i
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Fisseha-Estifanos&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <a href="https://github.com/Fisseha-Estifanos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fisseha-Estifanos&repo=trillo&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Fisseha-Estifanos&repo=Twitter-Data-Analysis&theme=dark" />
 </a>
 
 ---
